@@ -35,12 +35,5 @@
 
 - 📧 helinhumeyrasaracoglu@gmail.com  
 - 💼 [LinkedIn Profilim](https://www.linkedin.com/in/helin-h%C3%BCmeyra-sara%C3%A7o%C4%9Flu-356b581ba/)
-
----
-
-## 📈 GitHub İstatistiklerim
-
-![Helim's GitHub stats](https://github-readme-stats.vercel.app/api?username=helinhumeyra&show_icons=true&theme=tokyonight)
-
 --- 
 > 🧠 Öğrenmeye, üretmeye ve katkı sağlamaya devam ediyorum.
